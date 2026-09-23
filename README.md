@@ -122,6 +122,6 @@ _____que significa std::cout<<"ingresar numero"<<endl;
 - [v ] Llené todas las secciones (no quedan `_____`)
 - [ v] Mi programa compila sin advertencias
 - [v ] Probé todos los casos de la tabla
-- [ ] Hice al menos 3 commits con mensajes claros
-- [ ] Hice `git push` y verifiqué mi fork en GitHub
-- [ ] Entregué el enlace de mi fork en Classroom
+- [ v] Hice al menos 3 commits con mensajes claros
+- [V ] Hice `git push` y verifiqué mi fork en GitHub
+- [ v] Entregué el enlace de mi fork en Classroom
