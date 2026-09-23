@@ -1,6 +1,7 @@
 # Práctica 1: Suma de 5 números
 ## 1. Descripción del problema (Fase 1)
 <!-- Explica con tus palabras qué hace tu programa y para qué serviría en la vida real. Máximo 4 líneas. -->
+es un programa cuyo objetivo es realizar la suma de numeros, con un maximo de 5 numeros, el programa te pedira los 5 numeros y como resultado te dara la suma de estos. no acepta letras como numeros romanos
 
 _____
 
@@ -8,30 +9,30 @@ _____
 <!-- Define cada entrada y cada salida, con su tipo de dato y su objetivo. -->
 
 **Entradas:**
-1. _____
+1. _____Numeros decimales
 
 **Salidas:**
-1. _____
+1. _____suma de los 5 numeros
 
 ## 3. Restricciones e invariante (Fase 1 y 2)
 
 **Restricciones** (¿qué debe cumplirse?):
-- _____
-- _____
+- _____no aacepta numeros romanos
+- _____ser < a 5
 
 **Decisión sobre negativos y decimales** (¿los acepto? ¿por qué?):
-_____
+_____si, para mas precision en calculos 
 
 **Invariante** (¿qué es verdad después de cada vuelta del ciclo?):
-_____
+_____que la suma sea de 5 numeros
 
 ## 4. Casos resueltos a mano (Fase 1)
 
 | Caso | Números | Suma calculada a mano |
 |---|---|---|
-| 1 | _____ | _____ |
-| 2 | _____ | _____ |
-| 3 | _____ | _____ |
+| 1 | __2_3__ | __4_5_6_ |
+| 2 | __4__6_ | __8__10_ |
+| 3 | __1_2__ | __1_2__ |
 
 ## 5. Receta en pseudocódigo (Fase 2)
 <!-- Tu receta va en el archivo RECETA.md. Aquí solo responde las dos preguntas. -->
